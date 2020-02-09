@@ -5,7 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/10_python综合/10_python综合/11_模块" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/飞机大战" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (python3.7)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (pytorch1.4)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

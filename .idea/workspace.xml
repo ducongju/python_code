@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39d8a852-5c4c-4240-b239-ca344a98fc65" name="Default Changelist" comment="" />
+    <list default="true" id="39d8a852-5c4c-4240-b239-ca344a98fc65" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/learn-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learn-code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/10_异常/.idea/10_异常.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/10_异常/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/10_异常/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/10_异常/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/10_异常/hm_01_简单的异常捕获.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/10_异常/hm_02_捕获错误类型.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/10_异常/hm_03_捕获未知错误.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/10_异常/hm_04_完整的异常语法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/10_异常/hm_05_异常的传递.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/10_异常/hm_06_抛出异常.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/.idea/11_模块.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_01_测试模块1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_02_测试模块2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_03_import导入模块.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_04_import同时指定别名.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_05_from_import导入.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_06_from_import_注意事项.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_07_from_import导入全部.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_08_模块的搜索顺序.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_09___name__模块.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_09___name__测试导入.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_10_导入包.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_message/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_message/receive_message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_message/send_message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/12_发布模块/.idea/12_发布模块.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/12_发布模块/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/12_发布模块/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/12_发布模块/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/12_发布模块/MANIFEST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/12_发布模块/build/lib/hm_message/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/12_发布模块/build/lib/hm_message/receive_message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/12_发布模块/build/lib/hm_message/send_message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/12_发布模块/dist/hm_message-1.0.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/12_发布模块/hm_message/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/12_发布模块/hm_message/receive_message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/12_发布模块/hm_message/send_message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/12_发布模块/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/.idea/13_文件.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/REAMDE[复件]" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/hm_01_读取文件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/hm_02_读取文件后文件指针会改变.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/hm_03_写入文件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/hm_04_分行读取文件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/hm_05_复制文件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/hm_06_复制大文件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/hm_07_python2字符串.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/hm_08_eval计算器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/__MACOSX/._10_python综合" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_python综合/__MACOSX/10_python综合/._.DS_Store" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,13 +77,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python_code" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="-5" />
-    <option name="width" value="1375" />
-    <option name="height" value="765" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WwAbq1k9hF8BO538F04qfpSAag" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,6 +87,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -41,10 +99,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.hm_01_pygame入门">
-    <configuration name="hm_01_读取文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.plane_main">
+    <configuration name="hm_08___str__方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,12 +110,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_python综合/10_python综合/13_文件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_面向对象基础" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/hm_01_读取文件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_面向对象基础/hm_08___str__方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_01_pygame入门" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="plane_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +137,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/飞机大战/hm_01_pygame入门.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/飞机大战/plane_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_08_eval计算器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="plane_sprites" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,12 +154,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_python综合/10_python综合/13_文件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/飞机大战" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_python综合/10_python综合/13_文件/hm_08_eval计算器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/飞机大战/plane_sprites.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,29 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_09___name__测试导入" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="learn-code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_python综合/10_python综合/11_模块" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_09___name__测试导入.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hm_09___name__模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +181,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_09___name__模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_10_导入包" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,12 +198,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_python综合/10_python综合/11_模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/tools" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/hm_10_导入包.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/tools/train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hm_01_pygame入门" />
-        <item itemvalue="Python.hm_08_eval计算器" />
-        <item itemvalue="Python.hm_01_读取文件" />
-        <item itemvalue="Python.hm_10_导入包" />
-        <item itemvalue="Python.hm_09___name__测试导入" />
+        <item itemvalue="Python.plane_main" />
+        <item itemvalue="Python.plane_sprites" />
+        <item itemvalue="Python.hm_08___str__方法" />
+        <item itemvalue="Python.train (1)" />
+        <item itemvalue="Python.train" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +259,12 @@
       <workItem from="1571558561782" duration="12000" />
       <workItem from="1571564540643" duration="202000" />
       <workItem from="1580050359111" duration="157000" />
+      <workItem from="1580741665493" duration="179000" />
+      <workItem from="1580741870670" duration="1749000" />
+      <workItem from="1581090719910" duration="2754000" />
+      <workItem from="1581153451224" duration="152000" />
+      <workItem from="1581265192199" duration="39000" />
+      <workItem from="1581265427994" duration="194000" />
     </task>
     <servers />
   </component>
@@ -238,10 +280,48 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/networks_tutorial" />
+      <path value="$PROJECT_DIR$/python_code" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1581153608056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581153608056" />
+    <state width="1493" height="182" key="GridCell.Tab.0.bottom" timestamp="1581265625028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581265625028" />
+    <state width="1493" height="182" key="GridCell.Tab.0.center" timestamp="1581265625028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581265625028" />
+    <state width="1493" height="182" key="GridCell.Tab.0.left" timestamp="1581265625028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581265625028" />
+    <state width="1493" height="182" key="GridCell.Tab.0.right" timestamp="1581265625028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581265625028" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1581153530776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581153530776" />
+    <state x="447" y="143" width="782" height="608" key="find.popup" timestamp="1581153578742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="143" width="782" height="608" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1581153578742" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/learn_code$dcj_04_qq.coverage" NAME="dcj_04_qq号码 Coverage Results" MODIFIED="1571046845165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
+    <SUITE FILE_PATH="coverage/python_code$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1580743928587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_python综合/10_python综合/11_模块" />
     <SUITE FILE_PATH="coverage/python_code$hm_09_.coverage" NAME="hm_09_多继承 Coverage Results" MODIFIED="1571403306324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_面向对象特性" />
     <SUITE FILE_PATH="coverage/python_code$dcj_03_.coverage" NAME="dcj_03_全局变量 Coverage Results" MODIFIED="1571051210346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/python_code$train.coverage" NAME="train Coverage Results" MODIFIED="1580743740593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_python综合/10_python综合/11_模块/tools" />
     <SUITE FILE_PATH="coverage/learn_code$dcj_01_hello.coverage" NAME="dcj_01_hello Coverage Results" MODIFIED="1571046247821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
     <SUITE FILE_PATH="coverage/python_code$hm_10_.coverage" NAME="hm_10_导入包 Coverage Results" MODIFIED="1571550916123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_python综合/10_python综合/11_模块" />
     <SUITE FILE_PATH="coverage/python_code$dcj_03_1.coverage" NAME="dcj_03_第1个函数 Coverage Results" MODIFIED="1571050826427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
@@ -251,6 +331,8 @@
     <SUITE FILE_PATH="coverage/python_code$hm_09___name__.coverage" NAME="hm_09___name__测试导入 Coverage Results" MODIFIED="1571550893485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_python综合/10_python综合/11_模块" />
     <SUITE FILE_PATH="coverage/python_code$hm_06_from_import_.coverage" NAME="hm_06_from_import_注意事项 Coverage Results" MODIFIED="1571464405192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_python综合/10_python综合/11_模块" />
     <SUITE FILE_PATH="coverage/python_code$hm_14__01_.coverage" NAME="hm_14_士兵突击_01_枪类 Coverage Results" MODIFIED="1571400389509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
+    <SUITE FILE_PATH="coverage/python_code$plane_sprites.coverage" NAME="plane_sprites Coverage Results" MODIFIED="1581265558289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/飞机大战" />
+    <SUITE FILE_PATH="coverage/python_code$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1581265567169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/飞机大战" />
     <SUITE FILE_PATH="coverage/python_code$hm_12_.coverage" NAME="hm_12_类属性 Coverage Results" MODIFIED="1571405571402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_面向对象特性" />
     <SUITE FILE_PATH="coverage/python_code$hm_04_import.coverage" NAME="hm_04_import同时指定别名 Coverage Results" MODIFIED="1571464323008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_python综合/10_python综合/11_模块" />
     <SUITE FILE_PATH="coverage/python_code$hm_07___del__.coverage" NAME="hm_07___del__方法 Coverage Results" MODIFIED="1571399285032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
@@ -284,7 +366,7 @@
     <SUITE FILE_PATH="coverage/python_code$hm_15__02_.coverage" NAME="hm_15_士兵突击_02_士兵类 Coverage Results" MODIFIED="1571400431443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/python_code$hm_20_.coverage" NAME="hm_20_单例初始化一次 Coverage Results" MODIFIED="1571408106409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_面向对象特性" />
     <SUITE FILE_PATH="coverage/python_code$hm_18_.coverage" NAME="hm_18_伪私有属性和方法 Coverage Results" MODIFIED="1571401322633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
-    <SUITE FILE_PATH="coverage/python_code$hm_08___str__.coverage" NAME="hm_08___str__方法 Coverage Results" MODIFIED="1571399666233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
+    <SUITE FILE_PATH="coverage/python_code$hm_08___str__.coverage" NAME="hm_08___str__方法 Coverage Results" MODIFIED="1581092749630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_面向对象基础" />
     <SUITE FILE_PATH="coverage/python_code$hm_05_.coverage" NAME="hm_05_异常的传递 Coverage Results" MODIFIED="1571463419630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_python综合/10_python综合/10_异常" />
     <SUITE FILE_PATH="coverage/python_code$hm_11_.coverage" NAME="hm_11_多态案例 Coverage Results" MODIFIED="1571404629335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_面向对象特性" />
     <SUITE FILE_PATH="coverage/python_code$hm_07_from_import.coverage" NAME="hm_07_from_import导入全部 Coverage Results" MODIFIED="1571547981699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_python综合/10_python综合/11_模块" />
